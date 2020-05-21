@@ -1,10 +1,10 @@
 # Prisma Next.js
 
-Base setup for full stack solution to develop web app using Next.js and Prisma alongwith GraphQL
+Base setup for full stack solution to develop web app using Next.js and Prisma alongwith GraphQL.
 
 ## Getting Started
 
-This project is bootstrapped with [Next.js](https://www.nextjs.org) and [Prisma](https://www.prisma.io). These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This project is bootstrapped using [Next.js](https://www.nextjs.org) and [Prisma](https://www.prisma.io). These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -15,7 +15,7 @@ Before running the project on your system, make sure you have the following soft
 
 ### Installing
 
-To initialize the project, first navigate to the root directory and install all dependencies
+To initialize the project, first navigate to the root directory and install all dependencies.
 
 ```
 yarn install
@@ -55,11 +55,11 @@ Start the container using
 docker run -p 3000:3000 prisma-nextjs
 ```
 
-The project can now be viewed at [https://localhost:3000](https://localhost:3000).
+The project can now be viewed at [http://localhost:3000](http://localhost:3000).
 
 ## Technologies
 
-- [Apollo GraphQL](https://www.apollographql.com) - simplify app development by combining APIs, databases, and microservices into a single data graph that you can query with GraphQL
+- [Apollo GraphQL](https://www.apollographql.com) - simplify app development by using a single data graph that you can query with GraphQL
 - [Docker](https://www.docker.com) - OS level virtualization to deliver software in packages called containers
 - [Next.js](https://www.nextjs.org) - Framework for building React applications that scale
 - [GraphQL Nexus](https://nexus.js.org) - Declarative code-first GraphQL schemas for JavaScript/TypeScript
